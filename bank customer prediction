@@ -1,5 +1,0 @@
-The goal is to predict whether a person contacted via marketing efforts will become a bank customer or no.
-
-Random Forest has been applied in this case.
-
-Data set: https://archive.ics.uci.edu/ml/datasets/bank+marketing
